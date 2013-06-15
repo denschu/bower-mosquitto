@@ -1,0 +1,10 @@
+{
+  "name": "mosquitto",
+  "version": "1.0.0",
+  "main": "mosquitto.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
